@@ -11,6 +11,6 @@
 
 ## <a name="test-design" />Проектирование тестов
 
-<details> <summary>### **Нарисовать mindmap проекта**</summary> </details>
+<details> <summary>**Нарисовать mindmap проекта**</summary> </details>
 
 **1. Нарисовать mindmap проекта**
