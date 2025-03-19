@@ -12,7 +12,7 @@
 ## <a name="test-design" />Проектирование тестов
 
 <details>
-<summary>Создать Mindmap проекта</summary>
+<summary>Mindmap</summary>
   
 Решение для проекта [ДоДо Пицца](https://dodopizza.ru/)
 
@@ -21,5 +21,14 @@
 Решение для проекта [Wildberries](https://www.wildberries.ru/)
 
 ![Mindmap](https://i.ibb.co/sph0LH8V/1.png)
+
+</details>
+
+<details>
+<summary>Чек-листы</summary>
+
+
+
+
 
 </details>
