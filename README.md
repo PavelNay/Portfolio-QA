@@ -14,7 +14,6 @@
 <details>
 <summary>Нарисовать mindmap проекта</summary>
 Решение для проекта ![ДоДо Пицца](https://dodopizza.ru/)
-<img width="972" alt="ГП1" src="https://github.com/user-attachments/assets/04180d8a-93a4-4dff-b50d-80d50d99f34f" />
 
 ![Mindmap](https://i.ibb.co/cK07nWTw/1.png)
 [Mindmap в большом разрешении](https://i.ibb.co/cK07nWTw/1.png)
