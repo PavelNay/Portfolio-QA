@@ -12,7 +12,7 @@
 ## <a name="test-design" />Проектирование тестов
 
 <details><summary>Нарисовать mindmap проекта</summary>
-Решение для проекта ["ДоДо Пицца"](https://dodopizza.ru/)
+Решение для проекта ![Временные интервалы](https://code.s3.yandex.net/qa/schemes/time-intervals.png)
 
 ![Mindmap](https://i.ibb.co/cK07nWTw/1.png)
 
