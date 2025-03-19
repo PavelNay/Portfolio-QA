@@ -16,7 +16,7 @@
 Решение для проекта ![ДоДо Пицца](https://dodopizza.ru/)
 
 ![Mindmap](https://i.ibb.co/cK07nWTw/1.png)
-[Mindmap в большом разрешении](https://i.ibb.co/cK07nWTw/1.png)
+
 
 
 </details>
