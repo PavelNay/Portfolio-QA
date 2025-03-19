@@ -19,4 +19,6 @@
 
 Решение для проекта [Wildberries](https://www.wildberries.ru/)
 
+![Mindmap](https://i.ibb.co/sph0LH8V/1.png)
+
 </details>
