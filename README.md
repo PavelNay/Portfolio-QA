@@ -12,7 +12,7 @@
 ## <a name="test-design" />Проектирование тестов
 
 <details>
-<summary>Нарисовать Mindmap проекта</summary>
+<summary>Создать Mindmap проекта</summary>
   
 Решение для проекта [ДоДо Пицца](https://dodopizza.ru/)
 
