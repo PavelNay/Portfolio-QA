@@ -11,9 +11,10 @@
 
 ## <a name="test-design" />Проектирование тестов
 
-<details><summary>Нарисовать mindmap проекта</summary>
+<details>
+<summary>Нарисовать mindmap проекта</summary>
 Решение для проекта ![ДоДо Пицца](https://dodopizza.ru/)
-[Ассоциативная карта в большом разрешении](https://i.ibb.co/cK07nWTw/1.png)
+[Mindmap в большом разрешении](https://i.ibb.co/cK07nWTw/1.png)
 
 
 </details>
