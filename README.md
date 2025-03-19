@@ -13,10 +13,10 @@
 
 <details>
 <summary>Нарисовать Mindmap проекта</summary>
-Решение для проекта ![ДоДо](https://dodopizza.ru/)
+Решение для проекта [ДоДо](https://dodopizza.ru/)
 
 ![Mindmap](https://i.ibb.co/cK07nWTw/1.png)
 
-Решение для проекта ![Wildberries](https://www.wildberries.ru/)
+Решение для проекта [Wildberries](https://www.wildberries.ru/)
 
 </details>
