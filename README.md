@@ -12,4 +12,9 @@
 ## <a name="test-design" />Проектирование тестов
 
 <details><summary>Нарисовать mindmap проекта</summary></details>
+**Решение для проекта** ["ДоДо Пицца"](https://dodopizza.ru/)
+
+![Mindmap](https://ibb.co/WNZYJrK0)
+
+[Ассоциативная карта в большом разрешении](https://ibb.co/WNZYJrK0)
 
