@@ -223,3 +223,22 @@
 | 2 | В поле поиска ввести «iphone» | В результатах выдачи есть карточка товара с названием «iphone» созданная в шаге 2. Карточки товара «шахматы» в результатах выдачи нет |
 
 </details>
+
+</details>
+
+<details>
+<summary>State Transition</summary>
+
+**Для проекта [ДоДо Пицца](https://dodopizza.ru/)**
+
+Сущность "Заказ"
+
+![State Transition](https://i.ibb.co/fzVMFbQS/8.png)
+
+**Для проекта [Wildberries](https://www.wildberries.ru/)**
+
+Сущность "Карточка товара"
+
+![State Transition](https://i.ibb.co/TD47TsyF/9.png)
+
+</details>
