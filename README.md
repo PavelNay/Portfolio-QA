@@ -393,11 +393,7 @@
 
 Всплывающее окно с подтверждением возраста появляется при клике по кнопке "Смотреть все отзывы". Переход на страницу с отзывами происходит только при подтверждении возраста (18 лет).
 
-![url=https://ibb.co/4nD2rctL][img]https://i.ibb.co/4nD2rctL/image.png[/img][/url]
-
-https://i.ibb.co/V0WvQSkz/image.png
-
-https://i.ibb.co/LzdyWB23/image.png
+[С окном](https://ibb.co/4nD2rctL) [Без окна](https://ibb.co/LDzCJtsc) [Отзывы](https://ibb.co/sv94GcMZ)
 
 </details>
 
