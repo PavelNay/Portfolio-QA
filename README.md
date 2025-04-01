@@ -798,3 +798,49 @@
       JOIN orders ON users.last_id = orders.last_id;
 
 </details>
+
+<details>
+<summary>Задание 2</summary>
+
+Сделайте запрос в магазинчике. Операторы сидят и заполняют таблицу предметов (items) по каждой категории. Я хочу видеть, сколько ещё осталось работы. Поэтому подсчитайте мне, сколько категорий, по которым ещё нет товаров.
+
+Решение
+
+     SELECT 
+      COUNT(categorys.last_id) AS count_empty 
+     FROM 
+      categorys 
+      LEFT JOIN items ON categorys.last_id = items.category 
+     WHERE 
+      items.category IS NULL;
+
+</details>
+
+<details>
+<summary>Задание 3</summary>
+
+Сделайте запрос в магазинчике. Нас интересует таблица last_views. 
+
+Я хочу увидеть, сколько товаров просматривал какой пользователь:
+
+- id пользователя;
+- сколько товаров он просмотрел;
+- Сначала те, кто просматривает много — ищем потенциальных клиентов, чтобы предложить им рекламу "вы смотрели то и то, не хотите ли купить?".
+
+Те, кто просматривал меньше 4 товаров, меня не интересуют.
+
+Решение
+
+     SELECT 
+      user_id, 
+      COUNT(DISTINCT item) AS count_item 
+     FROM 
+      last_views 
+     GROUP BY 
+      user_id 
+     HAVING 
+      count_item >= 4 
+     ORDER BY 
+      count_item DESC;
+
+</details>
