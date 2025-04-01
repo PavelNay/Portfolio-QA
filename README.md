@@ -757,6 +757,8 @@
 
 Сделайте запрос в магазинчике чтобы получить последние 15 товаров (ориентируйтесь на автоинкрементальное поле id), у которых непустые параметры.
 
+Решение
+
      SELECT 
       * 
      FROM 
@@ -767,5 +769,32 @@
       last_id DESC 
      LIMIT 
       15;
+
+</details>
+
+##
+
+### JOIN
+
+<details>
+<summary>Задание 1</summary>
+
+Сделайте запрос в магазинчике из таблиц заказов orders и клиентов users. Выведите мне для всех сделанных заказов:
+
+- ФИО клиента;
+- Телефон;
+- Емейл;
+- Адрес.
+
+Решение
+
+     SELECT 
+      users.name, 
+      orders.phone, 
+      users.email, 
+      orders.addr 
+     FROM 
+      users 
+      JOIN orders ON users.last_id = orders.last_id;
 
 </details>
